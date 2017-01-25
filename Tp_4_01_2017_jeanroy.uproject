@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.13",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Tp_4_01_2017_jeanroy",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
